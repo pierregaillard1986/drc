@@ -1,0 +1,26 @@
+*{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+nav, .side-nav{
+  background-color: #DB281E;
+}
+nav a img {
+  margin-left: 10px;
+  margin-top: 2px;
+}
+nav .titre{
+  margin-left: 80px;
+  font-size: 35px;
+}
+nav ul li a{
+  font-size: 16px;
+}
+.side-nav li a {
+  color: white!important;
+}
+#dropdown1, #dropdown2, #dropdown1mobile, #dropdown2mobile {
+  background-color: #DB281E;
+}
+#dropdown1 li a, #dropdown2 li a, #dropdown1mobile li a, #dropdown2mobile li a {
+  color: white;
+}
